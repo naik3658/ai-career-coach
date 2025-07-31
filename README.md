@@ -3,7 +3,7 @@
 
 A comprehensive AI-powered career coaching platform built with modern web technologies.
 
-![AI Career Coach](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+
 
 ### Features
 
