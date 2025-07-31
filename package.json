@@ -2,6 +2,8 @@
   "name": "ai-career-coach",
   "version": "0.1.0",
   "private": true,
+  "author": "Karthik Naik",
+  "description": "AI-powered career coaching platform with resume builder, cover letter generator, and interview preparation",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
